@@ -6,6 +6,5 @@ Preview
 Language: Python
 
 게임화면
-![스크린샷 2024-08-25 074923](https://github.com/user-attachments/assets/b007f20f-9e6b-421a-9cd0-ee2f1db5b39e)
 
 ![스크린샷 2024-09-18 171610](https://github.com/user-attachments/assets/111fd118-e248-4f2b-a6e2-6d8a28c7a294)
